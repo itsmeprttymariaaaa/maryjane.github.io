@@ -234,3 +234,13 @@ section {
     color: #000000;
 }
 
+@media screen and (max-width:767px) {
+
+    section {
+        padding: 60px 20px;
+    }
+
+    .card {
+        margin-bottom: 20px;
+    }
+}
